@@ -1,6 +1,6 @@
 HelloWorld Servlet example with corresponding Dockerfile
 
-Use Maven Build first to create war file in Target folder.
+Use Maven Build first to create war file in Target folde
 
 mvn clean package
 
